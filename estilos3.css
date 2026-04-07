@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Caja principal */
+.card {
+    width: 400px;
+    border: 1px solid #aaa;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Imagen redonda */
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+/* Contenido del medio */
+.contenido {
+    flex: 1;
+}
+
+/* Parte superior (nombre + tiempo) */
+.header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+/* Nombre */
+.nombre {
+    font-weight: bold;
+}
+
+/* Tiempo */
+.tiempo {
+    color: gray;
+}
+
+/* Texto */
+.texto {
+    margin: 5px 0 0 0;
+    font-size: 13px;
+}
+
+/* Menú (los 3 puntos) */
+.menu {
+    font-size: 20px;
+    cursor: pointer;
+}
