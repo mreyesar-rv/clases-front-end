@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+}
+
+div{
+    border: 1px solid black;
+}
+
+.general{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.buscador{
+    width: 80%;
+   display: inline-block;
+}
+
+.categorias{
+    width: 19%;
+    display: inline-block;
+}
+
+.card{
+    width: 15%;
+    display: inline-block;
+}
+
+.banner{
+    width: 50%;
+}
+
+.contenedor{
+    padding: 10px;
+}
+
+.cards{
+    padding: 10px;
+}
+
+.fila1, .fila2{
+    padding: 10px;
+}   
+
+.izq{
+
+}
+
+.centro{
+
+}
+
+.der{
+
+}
+
+.card img{
+    width: 100%;
+}
