@@ -46,17 +46,29 @@ div{
 }   
 
 .izq{
-
+    width: 30%;
 }
 
 .centro{
-
+    width: 39%;
+    text-align: center;
 }
 
 .der{
-
+    width: 30%;
+    text-align: right;
 }
 
 .card img{
     width: 100%;
+}
+
+
+nav{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+nav div{
+    display: inline-block;
 }
