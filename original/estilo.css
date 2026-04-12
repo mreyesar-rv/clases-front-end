@@ -1,0 +1,86 @@
+﻿*{
+    margin: 0px;
+}
+
+div{
+    border: 1px solid black;
+}
+
+.general{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.buscador{
+    width: 80%;
+   display: inline-block;
+}
+
+.categorias{
+    width: 19%;
+    display: inline-block;
+}
+
+.card{
+    width: 15%;
+    display: inline-block;
+    height: 100px;
+}
+
+.card img{
+    width: 90%;
+    margin: 5%;
+    border: 1px solid black;
+}
+
+.banner{
+    width: 60%;
+    display: block;
+    margin: 20px auto;
+}
+
+
+.contenedor{
+    padding: 10px;
+}
+
+.cards{
+    padding: 10px;
+}
+
+.fila1, .fila2{
+    padding: 10px;
+}   
+
+.izq{
+    width: 30%;
+}
+
+.centro{
+    width: 39%;
+    text-align: center;
+}
+
+.der{
+    width: 30%;
+    text-align: right;
+}
+
+nav{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+nav div{
+    display: inline-block;
+}
+
+.ver{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
